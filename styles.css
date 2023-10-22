@@ -1,0 +1,116 @@
+.navbar-container {
+    width: 100%;
+    background-color: white;
+}
+
+.navbar {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1300px; 
+    height: 40px;  
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    background-color: #fbfbfd;
+}
+
+.part-1{
+    width: 625px;
+    height: 400px;
+    text-align: center;
+    
+}
+
+.text-1 {
+    font-size: 56px;
+    line-height: 1.07143;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #1d1d1f;
+    margin-bottom: 5px;
+}
+
+.text-2 {
+    font-size: 28px;
+    line-height: 1.10722;
+    font-weight: 400;
+    color: #1d1d1f;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.shop-text {
+    text-align: center;
+    color: #06c;
+    font-size: 21px;
+    text-decoration: none;
+}
+
+
+.shop-text2 {
+    text-align: center;
+    color: #06c;
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.home1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 10px;
+}
+
+
+
+.tab1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 49.8%;
+    justify-content: center;
+    background-color: #1d1d1f;
+    box-sizing: border-box;
+}
+  
+
+
+.title {
+    color: #f5f5f7;
+    font-size: 30px;
+    line-height: 1.1;
+    font-weight: 600;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-bottom: 5px;
+}
+
+
+.subtitle {
+    color: #f5f5f7;
+    font-size: 16px;
+    line-height: 1.2381;
+    font-weight: 550;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    margin-top: 1px;
+    margin-bottom: 12px;
+}
+
+
+.example {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.box {
+    background-color: #06c;
+    width: 33%;
+    height: 400px;
+}
+
